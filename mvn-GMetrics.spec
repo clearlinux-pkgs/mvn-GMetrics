@@ -4,14 +4,14 @@
 #
 Name     : mvn-GMetrics
 Version  : 0.7
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/gmetrics/GMetrics/0.7/GMetrics-0.7-sources.jar
 Source0  : https://repo1.maven.org/maven2/org/gmetrics/GMetrics/0.7/GMetrics-0.7-sources.jar
 Source1  : https://repo1.maven.org/maven2/org/gmetrics/GMetrics/0.7/GMetrics-0.7.jar
 Source2  : https://repo1.maven.org/maven2/org/gmetrics/GMetrics/0.7/GMetrics-0.7.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
-License  : Apache-2.f
+License  : Apache-2.0
 Requires: mvn-GMetrics-data = %{version}-%{release}
 
 %description
