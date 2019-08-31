@@ -4,7 +4,7 @@
 #
 Name     : mvn-GMetrics
 Version  : 0.7
-Release  : 3
+Release  : 4
 URL      : https://repo1.maven.org/maven2/org/gmetrics/GMetrics/0.7/GMetrics-0.7-sources.jar
 Source0  : https://repo1.maven.org/maven2/org/gmetrics/GMetrics/0.7/GMetrics-0.7-sources.jar
 Source1  : https://repo1.maven.org/maven2/org/gmetrics/GMetrics/0.7/GMetrics-0.7.jar
